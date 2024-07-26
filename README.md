@@ -47,10 +47,11 @@
 
 ## Teaching
 
-- Tutorial Series - Programming in Jason (2024).
+- [Tutorial Series - Programming in Jason (2024)](https://kevinmcareavey.github.io/jason-tutorial-series/html/).
 
 ## Software
 
+- [Cuttlefish](https://github.com/kevinmcareavey/cuttlefish-setup): smart home scheduler web application.
 - [Squid](https://github.com/chai-project): AI-enabled smart radiator valve used in the EPSRC CHAI project.
 - [pycausalexplainer](https://github.com/kevinmcareavey/pycausalexplainer) Python library for casual explanations based on structural equation models.
 - [CAV-Gym](https://github.com/TSL-UOB/CAV-Gym): 2D vehicle simulator based on OpenAI Gym.
